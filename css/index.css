@@ -1,0 +1,36 @@
+body {
+  background: white;
+}
+.mui-slider {
+  height: 400px !important;
+}
+.main {
+  width: 100%;
+}
+.main .content {
+  margin-top: 50px;
+  color: #007AFF;
+  width: 100%;
+  height: 50px;
+  font-weight: bolder;
+  font-family: "楷体";
+}
+.main .content h3 {
+  color: #0062CC;
+}
+.main .link {
+  position: fixed;
+  margin: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 90%;
+  height: 110px;
+  font-weight: bolder;
+}
+.main .link .phone {
+  font-size: 20px;
+}
+.main .link .site {
+  font-size: 20px;
+}
