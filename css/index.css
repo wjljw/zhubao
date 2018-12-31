@@ -19,11 +19,7 @@ body {
   color: #0062CC;
 }
 .main .link {
-  position: absolute;
-  margin: auto;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  margin: 20px 0px 10px 10px;
   width: 90%;
   height: 110px;
   font-weight: bolder;
