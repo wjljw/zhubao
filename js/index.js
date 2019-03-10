@@ -17,4 +17,6 @@ function log(info) {
 
 
         var audioEl = document.getElementById('bgmusic');
+   
+        window.addEventListener('ready', forceSafariPlayAudio, false);
 )};
